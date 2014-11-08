@@ -1,6 +1,6 @@
 # 俺のゼニはどこ行った for 横浜
 
-wheredoesmymoney.orgの横浜バージョンです．
+wheredoesmymoney.orgの出雲バージョンです．
 
 http://spending.jp/ で稼働しているサイトのソースコードです。
 
