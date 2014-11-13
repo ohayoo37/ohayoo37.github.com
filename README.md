@@ -13,6 +13,7 @@ Where Does My Money Go? β版（2012年7月1日稼働）は、出雲市民が出
 
 Core Team: (@は Twitter Account)
 
+村松　英俊(Hidetoshi Muramatsu)
 伊藤　大貴(Hirotaka Itou), @hirochan (Adviser)
 川島　宏一(Hiroichi Kawashima), @hiroichi_k (Coordinator)
 佐藤　宏之(Hiroyuki Sato), @sa2hi (Linked Open Data化)
